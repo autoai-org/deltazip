@@ -4,7 +4,7 @@ hide-toc: true
 
 # DeltaZip
 
-[![Paper](https://img.shields.io/badge/arxiv-2312.05215-blue)]([https://](https://arxiv.org/abs/2312.05215))  [![Documents](https://img.shields.io/badge/docs-in_progress-gren)](https://deltazip.readthedocs.io/en/latest/) [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/eth-easl/deltazip/blob/init/LICENSE)
+[![Paper](https://img.shields.io/badge/arxiv-2312.05215-blue)](https://arxiv.org/abs/2312.05215)  [![Documents](https://img.shields.io/badge/docs-in_progress-gren)](https://deltazip.readthedocs.io/en/latest/) [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/eth-easl/deltazip/blob/init/LICENSE)
 
 DeltaZip is a system for compressing and serving **full-parameter** fine-tuned LLMs.
 
